@@ -1,0 +1,21 @@
+Transaction_ID,Transaction_Date,Patient_ID,Test_Category,Branch,Doctor_ID,Order_Status,Turnaround_Hours,Amount_Naira,Doctor_Name,Specialization
+TX101,2026-09-01,P001,"Lipid Profile",Ikeja,D01,Completed,12,25000,"Dr. Adewale Ogunleye","Chemical Pathology"
+TX102,2026-09-02,P002,"Full Blood Count","Victoria Island",D02,Completed,6,15000,"Dr. Chidinma Okafor",Haematology
+TX103,2026-09-02,P003,"Liver Function Test",Lekki,D04,Completed,24,35000,"Dr. Ngozi Eze","Chemical Pathology"
+TX104,2026-09-03,P004,"Malaria & Typhoid","Abuja Central",D03,Cancelled,72,12000,"Dr. Ibrahim Musa",Microbiology
+TX105,2026-09-04,P005,"Hormonal Assay","Victoria Island",D02,Completed,18,55000,"Dr. Chidinma Okafor",Haematology
+TX106,2026-09-05,P006,"Lipid Profile",Lekki,D04,Completed,14,25000,"Dr. Ngozi Eze","Chemical Pathology"
+TX107,2026-09-06,P007,"Kidney Function Test","Port Harcourt",D05,Refunded,96,40000,"Dr. Tunde Bakare",Immunology
+TX108,2026-09-07,P008,"Full Blood Count",Ikeja,D01,Completed,8,15000,"Dr. Adewale Ogunleye","Chemical Pathology"
+TX109,2026-09-08,P009,"Hormonal Assay",Lekki,D04,Completed,20,55000,"Dr. Ngozi Eze","Chemical Pathology"
+TX110,2026-09-09,P010,"Malaria & Typhoid","Abuja Central",D03,Cancelled,68,12000,"Dr. Ibrahim Musa",Microbiology
+TX111,2026-09-10,P011,"Liver Function Test","Victoria Island",D02,Completed,15,35000,"Dr. Chidinma Okafor",Haematology
+TX112,2026-09-11,P012,"Kidney Function Test","Port Harcourt",D05,Cancelled,84,40000,"Dr. Tunde Bakare",Immunology
+TX113,2026-09-12,P013,"Hormonal Assay","Victoria Island",D02,Completed,16,55000,"Dr. Chidinma Okafor",Haematology
+TX114,2026-09-13,P014,"Lipid Profile",Ikeja,D01,Completed,10,25000,"Dr. Adewale Ogunleye","Chemical Pathology"
+TX115,2026-09-14,P015,"Malaria & Typhoid",Ikeja,D01,Completed,5,12000,"Dr. Adewale Ogunleye","Chemical Pathology"
+TX116,2026-09-15,P016,"Liver Function Test",Lekki,D04,Completed,22,35000,"Dr. Ngozi Eze","Chemical Pathology"
+TX117,2026-09-16,P017,"Kidney Function Test","Port Harcourt",D05,Completed,48,40000,"Dr. Tunde Bakare",Immunology
+TX118,2026-09-17,P018,"Full Blood Count","Abuja Central",D03,Completed,12,15000,"Dr. Ibrahim Musa",Microbiology
+TX119,2026-09-18,P019,"Hormonal Assay",Lekki,D04,Refunded,75,55000,"Dr. Ngozi Eze","Chemical Pathology"
+TX120,2026-09-19,P020,"Lipid Profile","Victoria Island",D02,Completed,11,25000,"Dr. Chidinma Okafor",Haematology
